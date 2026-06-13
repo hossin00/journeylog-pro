@@ -1,0 +1,15 @@
+{
+  "name": "JourneyLog Pro",
+  "short_name": "JourneyLog Pro",
+  "description": "Travel journal and trip planner",
+  "start_url": "/journeylog-pro/",
+  "scope": "/journeylog-pro/",
+  "display": "standalone",
+  "background_color": "#080810",
+  "theme_color": "#06b6d4",
+  "orientation": "any",
+  "icons": [
+    {"src": "/journeylog-pro/icons/icon-192x192.png", "sizes": "192x192", "type": "image/png", "purpose": "any maskable"},
+    {"src": "/journeylog-pro/icons/icon-512x512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable"}
+  ]
+}
